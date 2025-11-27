@@ -10,4 +10,4 @@ hier is de code
 
 [Assets/iets.cs](Assets/iets.cs)
 
-<img width="650" height="676" alt="obraz" src="mimkimimim.gif"/>
+<img width="1280" height="720" alt="obraz" src="mimkimimim.gif"/>
