@@ -9,3 +9,5 @@ als je de video zoekt van de demo het is de enigste mp4 file in de repo dus yea
 hier is de code
 
 [Assets/iets.cs](Assets/iets.cs)
+
+<img width="650" height="676" alt="obraz" src="mimkimimim.gif"/>
