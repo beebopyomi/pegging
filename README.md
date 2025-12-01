@@ -14,3 +14,7 @@ dus uhh ik heb collision en zo geadd en je kan springen...
 me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 
 <img width="1280" height="720" alt="obraz" src="pp.gif"/>
+
+[spring command](Assets/ppap.cs)
+
+[collision command](Assets/hit.cs)
