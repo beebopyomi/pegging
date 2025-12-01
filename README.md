@@ -24,3 +24,9 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 10:07 1-12-25
 
 Scrap de rythem game idea het word gwn simpson themed peggle
+
+-------------------------------------------------------------------
+
+11:03 1-12-25
+
+alles werkt top ik kan schieten en mikken en whatever
