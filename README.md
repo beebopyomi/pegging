@@ -18,3 +18,9 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 [spring command](Assets/ppap.cs)
 
 [collision command](Assets/hit.cs)
+
+-------------------------------------------------------------------
+
+10:07 1-12-25
+
+Scrap de rythem game idea het word gwn simpson themed peggle
