@@ -7,7 +7,7 @@ dus soort van die platformen hebben collistion en like die balk daar onder gaat 
 
 -----------------------------------------------------  
 
-09:51 1-12-25
+09:51 1-12-2025
 
 dus uhh ik heb collision en zo geadd en je kan springen...
 
@@ -21,14 +21,28 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 
 -------------------------------------------------------------------
 
-10:07 1-12-25
+10:07 1-12-2025
 
 Scrap de rythem game idea het word gwn simpson themed peggle
 
 -------------------------------------------------------------------
 
-11:03 1-12-25
+11:03 1-12-2025
 
 alles werkt top ik kan schieten en mikken en whatever
 
 <img width="1280" height="720" alt="obraz" src="OHYEA.gif"/>
+
+-------------------------------------------------------------------
+
+14:13 2-12-2025
+
+ik heb deze unity project gebruik voor mijn github les. 
+
+de instructie zij "Copieer de url van jouw online repository van een unityproject en lever deze in bij simulise"
+
+specefiek de woorden "EEN UNITYPROJECT". dat betekent dat het een random project kan zijn! deze is de beste dus yeye.
+
+
+-------------------------------------------------------------------
+
