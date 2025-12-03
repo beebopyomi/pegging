@@ -56,6 +56,11 @@ they said we could give it our own twist and my twist will be making it more lor
 
 -------------------------------------------------------------------
 
+15:06 3-12-2025
+
+Line rendere is added en ik zat er lang mee te kloten, moest ook ff wat eten dus yeye maar hier is de giffy vro
+
+<img width="1280" height="720" alt="obraz" src="3.12.2025.gif"/>
 
 -------------------------------------------------------------------
 
