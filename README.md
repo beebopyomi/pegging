@@ -64,3 +64,16 @@ Line rendere is added en ik zat er lang mee te kloten, moest ook ff wat eten dus
 
 -------------------------------------------------------------------
 
+
+17:41 3-12-2024
+
+lang niet geupdate... ik heb veel dingen gedaan, in peggle heb je blauwe en orange pegs, die geven verschilende amounts of punten, dat heb ik nu ook.
+
+duff beer geeft 100 punten
+doughnut geeft 10 punten
+
+<img width="1280" height="720" alt="obraz" src="17.40.gif"/>
+
+
+-------------------------------------------------------------------
+
