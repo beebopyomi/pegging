@@ -17,8 +17,8 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 
 [spring command](Assets/ppap.cs)
 
-[orange collision command](Assets/orange score.cs)
-[Blue collision command](Assets/Blue score.cs)
+[orange collision command](https://github.com/beebopyomi/pegging/blob/main/Assets/orange%20score.cs)
+[Blue collision command](https://github.com/beebopyomi/pegging/blob/main/Assets/Blue%20score.cs)
 
 -------------------------------------------------------------------
 
