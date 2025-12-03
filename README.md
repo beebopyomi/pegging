@@ -43,6 +43,19 @@ de instructie zij "Copieer de url van jouw online repository van een unityprojec
 
 specefiek de woorden "EEN UNITYPROJECT". dat betekent dat het een random project kan zijn! deze is de beste dus yeye.
 
+-------------------------------------------------------------------
+
+14:20 3-12-2025
+
+forced a 4:3 aspect ratio to make it more lore acurate.
+
+i dont like the way we are making peggele in our class, its not lore acurate.
+
+they said we could give it our own twist and my twist will be making it more lore accurate.
+
+
+-------------------------------------------------------------------
+
 
 -------------------------------------------------------------------
 
