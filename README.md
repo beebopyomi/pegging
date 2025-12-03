@@ -17,7 +17,8 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 
 [spring command](Assets/ppap.cs)
 
-[collision command](Assets/hit.cs)
+[orange collision command](Assets/orange_score.cs)
+[Blue collision command](Assets/Blue_score.cs)
 
 -------------------------------------------------------------------
 
@@ -74,6 +75,7 @@ doughnut geeft 10 punten
 
 <img width="1280" height="720" alt="obraz" src="17.40.gif"/>
 
+[4:3 aspect ratio script](Assets/43.cs)
 
 -------------------------------------------------------------------
 
