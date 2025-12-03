@@ -3,7 +3,11 @@ using UnityEngine;
 public class Aim : MonoBehaviour
 {
     void Update()
+
+
     {
+
+
         //positie van het gameobject (kanon) op het scherm bepalen
         Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
         //Richting tussen het gameobject en je muiscursor bepalen
