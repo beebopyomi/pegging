@@ -17,8 +17,8 @@ me dinges werkt well ok ik ben well een beetje achter maar ik catch up dw gang
 
 [spring command](Assets/ppap.cs)
 
-[orange collision command](Assets/orange_score.cs)
-[Blue collision command](Assets/Blue_score.cs)
+[orange collision command](Assets/orange score.cs)
+[Blue collision command](Assets/Blue score.cs)
 
 -------------------------------------------------------------------
 
