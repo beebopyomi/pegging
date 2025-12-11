@@ -6,7 +6,7 @@ public class ComboSystem : MonoBehaviour
     private int scoreMultiplier = 1;
     private void Start()
     {
-        Debug.Log("dfghjklkjhgfd");
+        
         BumperHit.onBumperHit += CheckForCombo;             //luisteren naar action event onBumperHit als game start
     }
     private void OnDisable()
@@ -16,20 +16,20 @@ public class ComboSystem : MonoBehaviour
     private void CheckForCombo(string tag, int bumperValue)
     {
 
-        
-        bumperTags.Add(tag);                                //tag toevoegen aan lijst
-        if (bumperTags.Count > 1)                           //check of er meer dan 1 tag is
-        {                                                   //check of de laatste 2 tags gelijk zijn
+        Debug.Log("check combo");
+        bumperTags.Add(tag);                              
+        if (bumperTags.Count > 1)                      
+        {
             if (bumperTags[bumperTags.Count - 2] == bumperTags[bumperTags.Count - 1])
             {
-                scoreMultiplier++;                          //verhoog de multiplier
+                scoreMultiplier++;
             }
-            else                                            //als ze niet gelijk zijn
+            else
             {
-                scoreMultiplier = 1;                        //reset multiplier
-                bumperTags.Clear();                         //leeg de lijst met tags
+                scoreMultiplier = 1;
+                bumperTags.Clear();
             }
-        }                                                   //voeg score toe aan de ScoreManager
+        }                                                   
         ScoreManager.Instance.AddScore(bumperValue * scoreMultiplier);
 
         //print score en multiplier in de console

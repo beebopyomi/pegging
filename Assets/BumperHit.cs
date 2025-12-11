@@ -9,7 +9,7 @@ public class BumperHit : MonoBehaviour
         if (collision.gameObject.CompareTag("Ball"))
         {
             onBumperHit?.Invoke(gameObject.tag, scoreValue);//bericht versturen dat er een bumper geraakt is. De tag en waarde sturen we mee
-           
+            Debug.Log("ball hits and sends.");
         }
     }
 }
