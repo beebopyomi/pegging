@@ -89,3 +89,11 @@ doughnut geeft 10 punten
 
 -------------------------------------------------------------------
 
+# 15:41 11-12-2024
+
+<img width="1280" height="720" alt="obraz" src="67.gif"/>
+
+dus dit is hoe de UI er uit gaat zien.
+
+ik will ook nog wat visuals doen zo als dat je letterlijk ziet hoeveel ballen je hebt in een box en dat als je der een gebruikt dat de ding dan weg gaat uh dat er eentje weg gaat dat bedoel ik okalweer sorry.
+
