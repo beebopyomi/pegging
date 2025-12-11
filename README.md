@@ -91,7 +91,7 @@ doughnut geeft 10 punten
 
 # 15:41 11-12-2024
 
-<img width="1280" height="720" alt="obraz" src="67.gif"/>
+<img width="1280" height="720" alt="obraz" src="67.png"/>
 
 dus dit is hoe de UI er uit gaat zien.
 
