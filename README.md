@@ -76,7 +76,7 @@ Line rendere is added en ik zat er lang mee te kloten, moest ook ff wat eten dus
 -------------------------------------------------------------------
 
 
-# 17:41 3-12-2024
+# 17:41 3-12-2025
 
 lang niet geupdate... ik heb veel dingen gedaan, in peggle heb je blauwe en orange pegs, die geven verschilende amounts of punten, dat heb ik nu ook.
 
@@ -89,7 +89,7 @@ doughnut geeft 10 punten
 
 -------------------------------------------------------------------
 
-# 15:41 11-12-2024
+# 15:41 11-12-2025
 
 <img width="1280" height="720" alt="obraz" src="67.png"/>
 
@@ -97,3 +97,9 @@ dus dit is hoe de UI er uit gaat zien.
 
 ik will ook nog wat visuals doen zo als dat je letterlijk ziet hoeveel ballen je hebt in een box en dat als je der een gebruikt dat de ding dan weg gaat uh dat er eentje weg gaat dat bedoel ik okalweer sorry.
 
+
+-------------------------------------------------------------------
+
+# 15:21 6-01-2026
+
+ik probeerde gebuild toe teveogen maar het erm werkte niet eens, de start menu ook 😭
