@@ -103,3 +103,12 @@ ik will ook nog wat visuals doen zo als dat je letterlijk ziet hoeveel ballen je
 # 15:21 6-01-2026
 
 ik probeerde gebuild toe teveogen maar het erm werkte niet eens, de start menu ook 😭
+
+
+-------------------------------------------------------------------
+
+# 16:19 06-01-2025
+
+De eerste beta is online! voor macos, windows en linux. we doen niet aan operating system discriminatie dus iedereen mag het probeeren :)
+
+succces en fijne kerst en nieuwjaar mensen!
