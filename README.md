@@ -100,15 +100,23 @@ ik will ook nog wat visuals doen zo als dat je letterlijk ziet hoeveel ballen je
 
 -------------------------------------------------------------------
 
-# 15:21 6-01-2026
+# 15:21 06-01-2026
 
 ik probeerde gebuild toe teveogen maar het erm werkte niet eens, de start menu ook 😭
 
 
 -------------------------------------------------------------------
 
-# 16:19 06-01-2025
+# 16:19 06-01-2026
 
 De eerste beta is online! voor macos, windows en linux. we doen niet aan operating system discriminatie dus iedereen mag het probeeren :)
 
 succces en fijne kerst en nieuwjaar mensen!
+
+-------------------------------------------------------------------
+
+# 11:27 22-01-2026
+
+ok het word nu teto miku en neru peggle omdat waarom niet
+
+<img width="1280" height="720" alt="obraz" src="fortnite.png"/>
