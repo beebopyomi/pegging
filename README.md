@@ -120,3 +120,11 @@ succces en fijne kerst en nieuwjaar mensen!
 ok het word nu teto miku en neru peggle omdat waarom niet
 
 <img width="1280" height="720" alt="obraz" src="fortnite.png"/>
+
+-------------------------------------------------------------------
+
+# 12:29 22-01-2026
+
+het word gwn zo een 2000's larp game ik ben er klaar mee.
+
+may the larp be with you fella
